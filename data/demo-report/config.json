@@ -1,0 +1,20 @@
+{
+    "name": "demo-report",
+    "engine": "handlebars",
+    "recipe": "chrome-pdf",
+    "data": {
+        "shortid": "bNlNk-Hzd"
+    },
+    "shortid": "haN3YUnWxd",
+    "chrome": {
+        "printBackground": true
+    },
+    "creationDate": {
+        "$$date": 1714028409087
+    },
+    "modificationDate": {
+        "$$date": 1714028710640
+    },
+    "_id": "WfVrLLiys7VIL0BU",
+    "$entitySet": "templates"
+}

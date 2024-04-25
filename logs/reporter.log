@@ -1,0 +1,140 @@
+2024-04-25T06:53:44.892Z - info: Initializing jsreport (version: 4.3.1, configuration file: jsreport.config.json, nodejs: 21.6.2)
+2024-04-25T06:53:44.894Z - info: Searching for available extensions in /home/haphuthinh/Workplace/Why.soft/jsreportapp/
+2024-04-25T06:53:44.896Z - info: Extensions location cache not found, crawling directories
+2024-04-25T06:53:45.072Z - info: Found 35 extension(s)
+2024-04-25T06:53:45.116Z - info: Using extension base@4.0.0
+2024-04-25T06:53:45.119Z - info: Using extension child-templates@4.1.0
+2024-04-25T06:53:45.122Z - info: Using extension cli@4.0.4
+2024-04-25T06:53:45.122Z - info: Using extension components@4.0.0
+2024-04-25T06:53:45.123Z - info: Using extension data@4.1.0
+2024-04-25T06:53:45.124Z - info: Using extension express@4.1.1
+2024-04-25T06:53:45.262Z - info: Using extension freeze@4.0.0
+2024-04-25T06:53:45.263Z - info: Using extension fs-store@4.0.3
+2024-04-25T06:53:45.319Z - info: Using extension handlebars@4.0.1
+2024-04-25T06:53:45.320Z - info: Using extension import-export@4.0.3
+2024-04-25T06:53:45.326Z - info: Using extension jsrender@4.0.0
+2024-04-25T06:53:45.327Z - info: Using extension licensing@4.0.2
+2024-04-25T06:53:45.328Z - info: Using extension localization@4.0.1
+2024-04-25T06:53:45.328Z - info: Using extension npm@4.0.0
+2024-04-25T06:53:45.329Z - info: Using extension pdf-utils@4.1.1
+2024-04-25T06:53:45.330Z - info: Using extension reports@4.1.1
+2024-04-25T06:53:45.331Z - info: Using extension tags@4.0.1
+2024-04-25T06:53:45.332Z - info: Using extension text@4.0.0
+2024-04-25T06:53:45.332Z - info: Using extension version-control@4.0.0
+2024-04-25T06:53:45.336Z - info: Using extension assets@4.1.0
+2024-04-25T06:53:45.341Z - info: Using extension authorization@4.0.0
+2024-04-25T06:53:45.343Z - info: Using extension browser-client@4.1.0
+2024-04-25T06:53:45.344Z - info: Using extension chrome-pdf@4.1.0
+2024-04-25T06:53:45.346Z - info: Using extension docx@4.2.1
+2024-04-25T06:53:45.347Z - info: Using extension html-to-xlsx@4.1.1
+2024-04-25T06:53:45.537Z - info: html-to-xlsx detected chrome as available html engine
+2024-04-25T06:53:45.537Z - info: Using extension pptx@4.2.0
+2024-04-25T06:53:45.538Z - info: Using extension scheduling@4.0.0
+2024-04-25T06:53:45.555Z - info: Using extension scripts@4.1.0
+2024-04-25T06:53:45.556Z - info: Using extension static-pdf@4.1.0
+2024-04-25T06:53:45.556Z - info: Using extension studio@4.1.0
+2024-04-25T06:53:45.597Z - info: Using extension xlsx@4.1.0
+2024-04-25T06:53:45.599Z - info: Using extension public-templates@4.0.0
+2024-04-25T06:53:45.600Z - info: Using extension sample-template@4.0.0
+2024-04-25T06:53:45.601Z - info: Using extension studio-theme-dark@4.0.0
+2024-04-25T06:53:45.602Z - info: Code sandboxing is disabled, users can potentially penetrate the local system if you allow code from external users to be part of your reports
+2024-04-25T06:53:45.602Z - info: Using general timeout for rendering (reportTimeout: 60000)
+2024-04-25T06:53:45.602Z - info: Using fs provider for template store.
+2024-04-25T06:53:45.606Z - info: fs store is persisting using fs for /home/haphuthinh/Workplace/Why.soft/jsreportapp/data
+2024-04-25T06:53:45.617Z - info: fs store is loading data
+2024-04-25T06:53:45.621Z - info: fs store is initialized successfully
+2024-04-25T06:53:45.631Z - info: Creating default express app.
+2024-04-25T06:53:45.649Z - info: jsreport server successfully started on http port: 5488
+2024-04-25T06:53:45.657Z - info: Verifying license key free
+2024-04-25T06:53:45.658Z - info: Using free license
+2024-04-25T06:53:45.670Z - info: Migrating templates chrome settings (waitForNetworkIddle -> waitForNetworkIdle)
+2024-04-25T06:53:45.672Z - info: Migration successful
+2024-04-25T06:53:45.724Z - info: Initializing worker threads
+2024-04-25T06:53:45.832Z - info: 2 worker threads initialized in 108ms
+2024-04-25T06:53:45.833Z - info: Starting temp files cleanup with 180000ms threshold
+2024-04-25T06:53:45.833Z - info: reporter initialized
+2024-04-25T06:57:22.984Z - info: Render request 1 queued for execution and waiting for available worker rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:23.026Z - info: Starting rendering request 1 rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:23.026Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:24.138Z - info: Rendering request 1 finished in 1155 ms rootId=p9f6xtjnevsxu7r, id=p9f6xtjnevsxu7r
+2024-04-25T06:57:39.108Z - info: Render request 2 queued for execution and waiting for available worker rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.135Z - info: Starting rendering request 2 rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.135Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T06:57:39.851Z - info: Rendering request 2 finished in 743 ms rootId=occn2ypchyye6n1, id=occn2ypchyye6n1
+2024-04-25T07:00:25.269Z - info: Render request 3 queued for execution and waiting for available worker rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.276Z - info: Starting rendering request 3 rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.276Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:00:25.360Z - info: Rendering request 3 finished in 90 ms rootId=20kubjfks03qlvy, id=20kubjfks03qlvy
+2024-04-25T07:01:38.151Z - info: Render request 4 queued for execution and waiting for available worker rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.157Z - info: Starting rendering request 4 rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.157Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:01:38.261Z - info: Rendering request 4 finished in 109 ms rootId=sqbk2fb5pbr8l8l, id=sqbk2fb5pbr8l8l
+2024-04-25T07:03:55.357Z - error: Error when processing OData POST: /odata/assets Error: Entity name can not be empty
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/validateEntityName.js:26:11)
+    at Object.insert (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/store/collection.js:123:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-04-25T07:05:11.366Z - info: Render request 5 queued for execution and waiting for available worker rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.373Z - info: Starting rendering request 5 rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.373Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:05:11.453Z - info: Rendering request 5 finished in 85 ms rootId=1jvyw55i28865i0, id=1jvyw55i28865i0
+2024-04-25T07:08:00.529Z - info: Render request 6 queued for execution and waiting for available worker rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.532Z - info: Starting rendering request 6 rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.532Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:00.604Z - info: Rendering request 6 finished in 75 ms rootId=j0u0svavzx1qgha, id=j0u0svavzx1qgha
+2024-04-25T07:08:55.539Z - info: Render request 7 queued for execution and waiting for available worker rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.542Z - info: Starting rendering request 7 rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.543Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: false } rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:08:55.604Z - info: Rendering request 7 finished in 66 ms rootId=tks1javfkdh0mnz, id=tks1javfkdh0mnz
+2024-04-25T07:13:35.488Z - info: Render request 8 queued for execution and waiting for available worker rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:35.503Z - info: Starting rendering request 8 rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:35.503Z - info: Rendering template { name: orders-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.700Z - info: pdf-utils is starting pdf processing rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.706Z - info: Starting rendering (child) request rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.706Z - info: Rendering template { name: orders-header, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.881Z - info: Rendering (child) request finished in 3353 ms rootId=pz905c038mn7ev3, id=1mk8ogehghppyj1
+2024-04-25T07:13:38.882Z - info: pdf-utils pdf processing was finished rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:13:38.882Z - info: Rendering request 8 finished in 3396 ms rootId=pz905c038mn7ev3, id=pz905c038mn7ev3
+2024-04-25T07:14:21.942Z - info: Render request 9 queued for execution and waiting for available worker rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:21.953Z - info: Starting rendering request 9 rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:21.954Z - info: Rendering template { name: sales-main, recipe: html-to-xlsx, engine: handlebars, preview: true } rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:22.263Z - info: html-to-xlsx generation is starting rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:22.964Z - info: html-to-xlsx generation was finished rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:23.727Z - info: Rendering request 9 finished in 1784 ms rootId=ku44w0d97rn5va4, id=ku44w0d97rn5va4
+2024-04-25T07:14:43.282Z - info: Render request 10 queued for execution and waiting for available worker rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.292Z - info: Starting rendering request 10 rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.292Z - info: Rendering template { name: invoice-main, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:43.485Z - info: Rendering request 10 finished in 203 ms rootId=6ul93tgnzelke7j, id=6ul93tgnzelke7j
+2024-04-25T07:14:52.906Z - info: Render request 11 queued for execution and waiting for available worker rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.912Z - info: Starting rendering request 11 rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.913Z - info: Rendering template { name: demo-report, recipe: chrome-pdf, engine: handlebars, preview: true } rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:14:52.988Z - info: Rendering request 11 finished in 82 ms rootId=v9u8x35386lku7s, id=v9u8x35386lku7s
+2024-04-25T07:17:45.962Z - info: Render request 12 queued for execution and waiting for available worker rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:45.968Z - info: Starting rendering request 12 rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:45.969Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: true } rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:46.133Z - info: docx generation is starting rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:46.133Z - info: Starting rendering (child) request rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.134Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.229Z - info: Rendering (child) request finished in 192 ms rootId=t7peulfduy2ktaa, id=wrdf53rf68nfuz4
+2024-04-25T07:17:46.329Z - info: docx generation was finished rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:17:47.137Z - info: Rendering request 12 finished in 1174 ms rootId=t7peulfduy2ktaa, id=t7peulfduy2ktaa
+2024-04-25T07:18:38.499Z - info: Render request 13 queued for execution and waiting for available worker rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.507Z - info: Starting rendering request 13 rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.507Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: true } rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.649Z - info: docx generation is starting rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:38.650Z - info: Starting rendering (child) request rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.650Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.741Z - info: Rendering (child) request finished in 189 ms rootId=79iw35rmq5ntjb9, id=62ru4p00s7r2ucf
+2024-04-25T07:18:38.841Z - info: docx generation was finished rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:18:39.615Z - info: Rendering request 13 finished in 1115 ms rootId=79iw35rmq5ntjb9, id=79iw35rmq5ntjb9
+2024-04-25T07:20:57.647Z - info: Verifying license key free
+2024-04-25T07:21:00.649Z - info: The licensing server was not reachable during instance startup. The instance now runs in the enterprise mode.
+2024-04-25T07:22:55.157Z - info: Render request 14 queued for execution and waiting for available worker rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.163Z - info: Starting rendering request 14 rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.163Z - info: Rendering template { name: invoice, recipe: docx, engine: handlebars, preview: false } rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.215Z - info: docx generation is starting rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.215Z - info: Starting rendering (child) request rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.215Z - info: Rendering anonymous template { recipe: html, engine: handlebars } rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.271Z - info: Rendering (child) request finished in 76 ms rootId=7w5bahqzrs0hikm, id=2ffogefry909vh1
+2024-04-25T07:22:55.272Z - info: docx generation was finished rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm
+2024-04-25T07:22:55.272Z - info: Rendering request 14 finished in 114 ms rootId=7w5bahqzrs0hikm, id=7w5bahqzrs0hikm

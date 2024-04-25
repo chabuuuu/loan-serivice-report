@@ -1,0 +1,5 @@
+2024-04-25T07:03:55.357Z - error: Error when processing OData POST: /odata/assets Error: Entity name can not be empty
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/shared/createError.js:10:13)
+    at module.exports (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/validateEntityName.js:26:11)
+    at Object.insert (/home/haphuthinh/Workplace/Why.soft/jsreportapp/node_modules/@jsreport/jsreport-core/lib/main/store/collection.js:123:7)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -1,0 +1,23 @@
+{
+    "name": "invoice",
+    "engine": "handlebars",
+    "recipe": "docx",
+    "data": {
+        "shortid": "Bg55x2XUh"
+    },
+    "docx": {
+        "templateAssetShortid": "B_IzgB-"
+    },
+    "shortid": "B8R7Vk5kWl",
+    "creationDate": {
+        "$$date": 1714029653982
+    },
+    "modificationDate": {
+        "$$date": 1714029752385
+    },
+    "_id": "PKvEcTdlXaLugt7B",
+    "$entitySet": "templates",
+    "htmlToXlsx": {
+        "htmlEngine": "chrome"
+    }
+}
